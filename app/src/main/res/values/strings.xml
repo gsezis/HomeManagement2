@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HomeManagement</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="passwort_eingeben">Passwort eingeben</string>
+    <string name="email_eingeben">Email eingeben</string>
+    <string name="login">Login</string>
 </resources>
